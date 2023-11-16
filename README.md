@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Yusuf Pandego Riadhot</h1>
 <p align="center" style="font-style: italic;">"Just a simple man who creates stuff in web development. "</p>
 
-- 💬 Ask me about **How to be a simple man**
+- 💬 Feel free to ask me anything, as I can answer that.
 - 📫 You can reach me, mail at **yusuf.pandego@gmail.com**
 - ⚡ Fun fact **I've graduate as a Animal Science; Love freedom, and Web Development.**
 
